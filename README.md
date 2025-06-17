@@ -1,4 +1,4 @@
 # KaizerFrukt
 
-client-module.jar -> Application
-update-module.jar -> Auto updater service
+-client-module.jar -> Application
+-update-module.jar -> Auto updater service
